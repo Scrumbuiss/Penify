@@ -47,7 +47,7 @@ Then go to Users table and set Role to ADMIN for your account.
 
 ## SEO Update
 
-Bevore you host your blog you should update the sitemap.ts file with your own domain url. Check also layout.tsx file and update your metadata tags with your own URL and description. Update also robots.txt file with your own domain, which you finde in public folder.
+Before you host your blog you should update the sitemap.ts file with your own domain url. Check also layout.tsx file and update your metadata tags with your own URL and description. Update also robots.txt file with your own domain, which you finde in public folder.
 
 ## Adsense
 
